@@ -265,6 +265,10 @@ org\.codeaurora\.ims.*
 # telephony-ext:
 org\.codeaurora\.internal.*
 
+# NV adds
+com\.nvidia
+com\.nvidia\..*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface

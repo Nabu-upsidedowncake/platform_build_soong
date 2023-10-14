@@ -112,7 +112,6 @@ var Configuration = map[string]PathConfig{
 	"ld.lld":  Allowed,
 	"llvm-addr2line":  Allowed,
 	"llvm-ar": Allowed,
-	"llvm-addr2line":  Allowed,
 	"m4":      Allowed,
 	"nproc":   Allowed,
 	"openssl": Allowed,
